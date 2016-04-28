@@ -3,5 +3,7 @@
 markdownテスト
 
 hasegawa テスト
+su-yama pullRequest練習
+android
 
-push hasegawa(use git command)
+git command 練習

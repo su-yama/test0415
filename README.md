@@ -3,3 +3,5 @@
 markdownテスト
 
 hasegawa テスト
+
+push hasegawa(use git command)

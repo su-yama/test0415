@@ -1,4 +1,4 @@
-package appointment.test.co.jp.appointment;
+package jp.co.test.appointment;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

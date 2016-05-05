@@ -1,4 +1,4 @@
-package appointment.test.co.jp.appointment;
+package jp.co.test.appointment.appointment;
 
 import org.junit.Test;
 
